@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "320113631867",
+    "firebase_url": "https://fir-shinwari.firebaseio.com",
+    "project_id": "firebase-shinwari",
+    "storage_bucket": "firebase-shinwari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320113631867:android:a974ad0be87712ab15f8de",
+        "android_client_info": {
+          "package_name": "com.abc.def"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320113631867-7pahlbcdnspnbrildlajo25oc74s648u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZbcP6Vp0dNZmBX6SATSgGQSF6unZ6H2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320113631867-7pahlbcdnspnbrildlajo25oc74s648u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320113631867:android:bf1c39d41202543e",
+        "android_client_info": {
+          "package_name": "com.drowsy.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320113631867-7pahlbcdnspnbrildlajo25oc74s648u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZbcP6Vp0dNZmBX6SATSgGQSF6unZ6H2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320113631867-7pahlbcdnspnbrildlajo25oc74s648u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
